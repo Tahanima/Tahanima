@@ -9,3 +9,5 @@ Merged Pull Requests: [1](https://github.com/SeleniumHQ/seleniumhq.github.io/pul
 Merged Pull Requests (Role: QA): [1](https://github.com/mattermost/mattermost/pull/24747), [2](https://github.com/mattermost/mattermost/pull/24847)
 - [checkstyle](https://github.com/checkstyle/checkstyle) | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. <br />
 Merged Pull Requests: [1](https://github.com/checkstyle/checkstyle/pull/14309), [2](https://github.com/checkstyle/checkstyle/pull/14311), [3](https://github.com/checkstyle/checkstyle/pull/14323), [4](https://github.com/checkstyle/checkstyle/pull/14350), [5](https://github.com/checkstyle/checkstyle/pull/14354), [6](https://github.com/checkstyle/checkstyle/pull/14355), [7](https://github.com/checkstyle/checkstyle/pull/14411), [8](https://github.com/checkstyle/checkstyle/pull/14438), [9](https://github.com/checkstyle/checkstyle/pull/14470)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tahanima)
