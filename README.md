@@ -1,6 +1,6 @@
 ### Open Source Contributions
 
-| Project | Merged PRs |
+| Repository | Merged PRs |
 | ------- | ---------- |
 | [Datafaker](https://github.com/datafaker-net/datafaker) | [1](https://github.com/datafaker-net/datafaker/pull/155), [2](https://github.com/datafaker-net/datafaker/pull/156), [3](https://github.com/datafaker-net/datafaker/pull/165), [4](https://github.com/datafaker-net/datafaker/pull/170), [5](https://github.com/datafaker-net/datafaker/pull/171), [6](https://github.com/datafaker-net/datafaker/pull/191), [7](https://github.com/datafaker-net/datafaker/pull/194), [8](https://github.com/datafaker-net/datafaker/pull/197). [9](https://github.com/datafaker-net/datafaker/pull/204), [10](https://github.com/datafaker-net/datafaker/pull/208), [11](https://github.com/datafaker-net/datafaker/pull/209)|
 | [Playwright](https://github.com/microsoft/playwright) | [1](https://github.com/microsoft/playwright/pull/26537) |
